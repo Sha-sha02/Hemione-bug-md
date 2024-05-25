@@ -10,22 +10,22 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348022159244"
-global.ownername = "𝔇𝔢𝔪𝔷𝔷𝔶🥇❤️‍🩹"
+global.ownernomer = "2348157319681"
+global.ownername = "Godspower. 🫶🏽🥷🏽"
 global.ytname = "YT: Xeon"
 global.socialm = "GitHub: Feranmi245"
 global.location = "nigeria, lagos, abuja"
 
-global.ownernumber = '2349091878122'  //creator number
-global.ownername = '𝔇𝔢𝔪𝔷𝔷𝔶🥇❤️‍🩹' //owner name
-global.botname = '𝔇𝔢𝔪𝔷𝔷𝔶🥇❤️‍🩹' //name of the bot
+global.ownernumber = '2348157319681'  //creator number
+global.ownername = 'Godspower. 🫶🏽🥷🏽' //owner name
+global.botname = 'Godspower. 🫶🏽🥷🏽' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = '𝔇𝔢𝔪𝔷𝔷𝔶🥇❤️‍🩹'
+global.packname = 'Sticker By your papa'
+global.author = 'Godspower. 🫶🏽🥷🏽'
 
 //console view/theme
-global.themeemoji = '🥇❤️‍🩹'
+global.themeemoji = '🫶🏽🥷🏽'
 global.wm = "Mofe Bot Inc."
 
 //theme link
